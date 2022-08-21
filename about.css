@@ -1,0 +1,28 @@
+.mynav{
+    float: right !important;
+}
+
+.footer{
+    width: 100%;
+    height: 30vh; 
+    text-align: center;
+    background-color: black;
+}
+
+#fb{
+    border-radius: 50%;
+}
+
+#image{
+    display: block;
+    margin: auto;
+   
+}
+
+#intro{
+    margin-left: 8%;
+}
+
+.part2{
+    margin-left: 8%;
+}
